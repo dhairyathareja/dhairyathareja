@@ -1,9 +1,7 @@
 <h1 align="center">
   I'm Dhairya Thareja
-  <br>
-  Sophomore @ UPES
 </h1>
-
+<h2 align="center">Sophomore @ UPES</h2>
 - 👨🏻‍💻 I’m a MERN stack developer with a strong passion for building dynamic and scalable web applications. 
 - Proficient in MongoDB, Express.js, React, and Node.js, I enjoy crafting efficient and user-friendly solutions. 
 - Currently, I’m expanding my expertise in cloud computing with AWS to optimize performance, scalability, and deployment strategies. 
