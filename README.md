@@ -1,6 +1,7 @@
 <h1 align="center">
   I'm Dhairya Thareja
-  <h3 align="center">Sophomore @ UPES</h3>
+  <br>
+  Sophomore @ UPES
 </h1>
 
 - 👨🏻‍💻 I’m a MERN stack developer with a strong passion for building dynamic and scalable web applications. 
